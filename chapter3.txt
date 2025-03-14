@@ -1,0 +1,11 @@
+chapter3 new file 
+
+
+to commit the git use
+
+git comit -m "
+ git commit -m "complete chpter1" ( to submit your first version to git hub)
+git log ( use o ee the commit youve made or submited )
+
+
+git diff chapter3.txt ( is used to compare the old or deleted file to the next one)

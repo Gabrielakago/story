@@ -1,0 +1,9 @@
+chaper 2 new text
+npm i   ( to install npm package)
+npm init -y  (initialize all npm package)
+npm i express ejs body-parser  ( to intall multiple package)
+mkdir views; touch index.js views/index.ejs (to creat new file and folder using the terminal)
+toch is used to creat a new folder in a file ( eg content.txt) 
+ git init ( is used to creat a hiden respositry in a file)
+ git status ( to show iden file)
+git add (e.g chapter1.txt) ( is used to add the txt to a staging area)
