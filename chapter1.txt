@@ -15,3 +15,13 @@ git log ( use o ee the commit youve made or submited )
 
 
 git diff chapter3.txt ( is used to compare the old or deleted file to the next one)
+
+ git checkout chapter1.txt to recover deleted file
+
+ {git remote add origin ( to add your respositry to the internet)= (https://github.com/Gabrielakago/story.git)
+
+ git branch -M main
+
+ git push -u origin main ( to it to the internet)}
+
+"git rm --cached -r . ( to remove commited file from git)

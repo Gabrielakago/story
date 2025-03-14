@@ -1,0 +1,19 @@
+   complete chapter 2 and 3
+
+commit 3264cde059f038d95ca01e460e44f18f1c35fc00
+Author: Owolabi Gabriel <gabrielakago70@gmail.com>
+Date:   Fri Mar 14 14:34:35 2025 +0100
+
+    complete chapter 1
+
+hp@AngelTECH MINGW64 ~/Desktop/story (main)
+$ git branch expo
+
+hp@AngelTECH MINGW64 ~/Desktop/story (main)
+$ git branch
+  expo
+* main
+
+hp@AngelTECH MINGW64 ~/Desktop/story (main)
+$ git checkout expo
+M       chapter1.txtgit
